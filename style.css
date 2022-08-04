@@ -43,13 +43,7 @@ li:hover{
   cursor: pointer;
   
 }
-nav .get-started{
-  padding: 0.3em 1.5em;
-  color: #FFFFFF;
-  background: #4434A6;
-  border-radius: 12px;
-  font-family: 'Pilcrow Rounded', sans-serif;
-}
+
 .totalcontainer{
   background-image: url(images/backgroundimage.png);    
     background-size: cover;
@@ -57,7 +51,7 @@ nav .get-started{
     background-position: center center;
 }.container {
   margin: auto;
-  margin-top: 10%;
+  margin-top: 5%;
   height: 70%;
   width: 25%;
   
