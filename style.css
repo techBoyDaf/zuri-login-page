@@ -14,10 +14,12 @@ nav{
 .logo {
   color:#00B4D8;
   font-size: 25px;
+  font-family: 'Pilcrow Rounded', sans-serif;
 }
 .logo>span{
   color:#1E0B94;
   font-size: 25px;
+  font-family: 'Pilcrow Rounded', sans-serif;
 }
 ul{
   list-style-type: none;
