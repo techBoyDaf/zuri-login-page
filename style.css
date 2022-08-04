@@ -101,25 +101,7 @@ h3 {
 }
 .imagecontainer {
   margin: auto;
-  width: 20%;
- 
-  
-}
-@media (max-width: 690px) {
-  .imagecontainer {
-    width: 45%;
-    
+  display: flex;
+  justify-content: center; 
   }
-}
-@media (min-width: 700px) {
-  .imagecontainer {
-    width: 28%;
-    
-  }
-}
-@media (min-width: 1200px) {
-  .imagecontainer {
-    width: 23%;
-    
-  }
-}
+
